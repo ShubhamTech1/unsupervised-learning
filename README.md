@@ -39,8 +39,8 @@ Label the clusters
 1st STEP:
 1. Business and Data Understanding :
 
-
 Objective(s): Maximize the Sales 
+
 Constraints: Minimize the Customer Retention
 
 '''Success Criteria'''
